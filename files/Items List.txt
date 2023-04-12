@@ -1,0 +1,7 @@
+magicHat, 0.2, abilityDamage,sorcerer
+warriorGloves, 0.1, physicalDamage,bladeMaster
+knightArmor, 0.15, armor,knight
+angryCloak, 0.1, criticalStrikeChance,yordle
+nightShift, 0.2, physicalDamage,assassin
+voidHit,  0.05, Health,void
+universeCore, 0.2, magic resist,elementalist

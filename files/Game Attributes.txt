@@ -1,0 +1,9 @@
+maxPlayers:4
+maxBenchSize:7
+maxRounds:21
+maxTeamSize:9
+maxSwaps:2
+maxStoreListings:5
+arenaSize:20
+autoSave:1
+savePath:files\game.save
